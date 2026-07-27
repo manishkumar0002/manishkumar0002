@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Leetcode problem solving**
 
-- 📫 How to reach me **manishkuamr.workspace@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences through my [resume](resume)
 
